@@ -361,7 +361,7 @@ table {
     font-family: Satisfy,'Open Sans',arial;
     font-size: 1.7rem;
 }
-#menu-list .menu-subtitle {
+#menu-list .menu-restaurant  .menu-subtitle {
     display: none !important;
 }
 }
