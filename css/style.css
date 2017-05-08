@@ -30,10 +30,6 @@ table {
 	border-spacing: 0;
 }
 
-.menu-list .menu-subtitle {
-    display: none !important;
-}
-
 #banner{
     background: url(../img/banner-bg.jpg) no-repeat center top;
     background-size: cover;
@@ -365,7 +361,7 @@ table {
     font-family: Satisfy,'Open Sans',arial;
     font-size: 1.7rem;
 }
-#burgers .menu-restaurant .menu-subtitle {
+#menu-list .menu-subtitle {
     display: none !important;
 }
 }
