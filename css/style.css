@@ -29,6 +29,11 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
+.menu-list .menu-subtitle {
+    display: none;
+}
+
 #banner{
     background: url(../img/banner-bg.jpg) no-repeat center top;
     background-size: cover;
