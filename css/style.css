@@ -31,7 +31,7 @@ table {
 }
 
 .menu-list .menu-subtitle {
-    display: none;
+    display: none !important;
 }
 
 #banner{
