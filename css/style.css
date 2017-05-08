@@ -358,7 +358,7 @@ table {
     float: left;
     color: #B1B1B1;
     font-family: Satisfy,'Open Sans',arial;
-    font-size: 1.2rem;
+    font-size: 1.7rem;
 }
 .menu-restaurant span.clearfix {
     position: relative;
@@ -434,6 +434,14 @@ table {
     text-transform: uppercase;
     margin: 0 5px;
 }
+
+.menu-size-prices {
+    padding: 0 10px 20px 10px ;
+    font-family: 'Satisfy', sans-serif;
+    font-size: 22px;
+    color: #FFB03B;
+}
+
 @media (min-width: 768px) and (max-width: 980px) {
     .content-holder h2 {
         font-size: 23px;
