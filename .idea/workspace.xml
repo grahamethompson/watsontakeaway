@@ -50,7 +50,7 @@
       <file leaf-file-name="scripts.min.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dist/scripts/scripts.min.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8484">
+            <state relative-caret-position="-20499">
               <caret line="5" column="1006" lean-forward="false" selection-start-line="5" selection-start-column="1006" selection-end-line="5" selection-end-column="1006" />
               <folding />
             </state>
@@ -72,8 +72,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="366">
-              <caret line="673" column="0" lean-forward="true" selection-start-line="673" selection-start-column="0" selection-end-line="673" selection-end-column="0" />
+            <state relative-caret-position="351">
+              <caret line="672" column="0" lean-forward="true" selection-start-line="672" selection-start-column="0" selection-end-line="672" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -300,12 +300,12 @@
       <option name="presentableId" value="Default" />
       <updated>1494386771570</updated>
       <workItem from="1494386772894" duration="530000" />
-      <workItem from="1494387325664" duration="900000" />
+      <workItem from="1494387325664" duration="950000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1430000" />
+    <option name="totallyTimeSpent" value="1480000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2" y="31" width="1238" height="1055" extended-state="0" />
@@ -403,7 +403,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dist/scripts/scripts.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8484">
+        <state relative-caret-position="-20499">
           <caret line="5" column="1006" lean-forward="false" selection-start-line="5" selection-start-column="1006" selection-end-line="5" selection-end-column="1006" />
           <folding />
         </state>
@@ -411,8 +411,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="673" column="0" lean-forward="true" selection-start-line="673" selection-start-column="0" selection-end-line="673" selection-end-column="0" />
+        <state relative-caret-position="351">
+          <caret line="672" column="0" lean-forward="true" selection-start-line="672" selection-start-column="0" selection-end-line="672" selection-end-column="0" />
           <folding />
         </state>
       </provider>
