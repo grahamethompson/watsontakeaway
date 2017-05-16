@@ -8,16 +8,17 @@ var uglify = require('gulp-uglify');
 
 //script paths
 var jsFiles = 'js/*.js',
-    jsDest = 'dist/scripts';
+    jsDest = 'dist/scripts',
+    distDest ="../dist/";
 
 
 gulp.task('minify-css', function() {
-    return gulp.src('./css/*.css')
+    return gulp.src('css/*.css')
         .pipe(sourcemaps.init())
         .pipe(cleanCSS())
         .pipe(sourcemaps.write())
         .pipe(concat('styles.min.css'))
-        .pipe(gulp.dest('dist/css'));
+        .pipe(gulp.dest('dist'));
 });
 
 // The default task (called when you run `gulp` from cli)
