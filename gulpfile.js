@@ -5,7 +5,7 @@ var sourcemaps = require('gulp-sourcemaps');
 var concat = require('gulp-concat');
 var rename = require('gulp-rename');
 var uglify = require('gulp-uglify');
-var htmlmin = require('gulp-html-minifier');
+var htmlmin = require('gulp-htmlmin');
 
 //script paths
 var jsFiles = 'js/*.js',
@@ -14,7 +14,7 @@ var jsFiles = 'js/*.js',
 
 gulp.task('minify', function() {
     gulp.src('html/index.html')
-        .pipe(htmlmin({collapseWhitespace: true}))
+        .pipe(htmlmin({collapseWhitespace: true, removeComments:true}))
         .pipe(gulp.dest('.'))
 });
 
